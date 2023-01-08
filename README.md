@@ -2,6 +2,8 @@
 
 Scripts for index selection in https://doi.org/10.1101/2022.10.26.511284.
 
+Depending on BLASTN 2.9.0+
+
 Usage: bash ospalc-index-selection.sh forward-primer reverse-primer
 
 For example: bash ospalc-index-selection.sh GTGYCAGCMGCCGCGGTAA GGACTACNVGGGTWTCTAAT
